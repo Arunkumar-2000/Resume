@@ -52,6 +52,9 @@ li {
   padding: 15px;
   border-left: 5px solid #ffd400;
 }
+#fe{
+  font-size: 1rem;
+}
 
 a {
   color: #0077cc;
